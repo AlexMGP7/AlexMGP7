@@ -17,7 +17,7 @@
 
 - 🌱 <b>Exploring</b> Technical Content Writing.
 
-- ⚡ In my free time, I code in <a href="https://www.freecodecamp.org">Freecodecamp</a> and in <a href="https://exercism.org" target="_blank">Exercism</a> and read tech articles.
+- ⚡ In my free time, I <b>code</b> in <a href="https://www.freecodecamp.org">Freecodecamp</a> and in <a href="https://exercism.org" target="_blank">Exercism</a> and read tech articles.
 
 - 📫 How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-AlexMGP7-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-gonz%C3%A1lez-67496a1a6/)
 
