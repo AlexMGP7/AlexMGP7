@@ -90,5 +90,3 @@ If you have any more questions or if there's anything else you'd like to know, f
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1></div>
-
-
