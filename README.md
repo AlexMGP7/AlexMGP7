@@ -1,15 +1,57 @@
-### Hi there 👋
-### 🚀 About Me
 
-🎓 I'm Alexander Gonzalez. I'm currently pursuing a Bachelor's Degree in Computer Science at Universidad de Oriente, and I expect to graduate in mid-2025.
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2QxNWExNzBjYzQzZDE4NjU5OTY0OWMzOTg1NjQ0NGU2OGM5Njk0OSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
-👨‍💻 I'm proficient in various programming languages, including HTML, CSS, JavaScript, Python, Java, C/C++, and Rust.
+---
 
-🎵 Besides my love for technology, I'm also a Salsa Casino teacher, and I enjoy dancing Salsa and Bachata in my free time.
+### :woman_technologist: About Me :
 
-🌐 Currently, I'm focusing on mastering web design and JavaScript. I'm also planning to delve into cybersecurity, and I'm excited to start learning it through freecodecamp.
+- 🎓 I'm Alexander Gonzalez. I'm currently pursuing a Bachelor's Degree in Computer Science at Universidad de Oriente, and I expect to graduate in mid-2025.
 
-✈️ Although I haven't had the opportunity to travel outside of Venezuela yet, I've explored different parts of my country, including Anzoategui and La Guaira.
+- 👩‍💻 I'm proficient in various programming languages, including HTML, CSS, JavaScript, Python, Java, C/C++, and Rust.
+
+- 🎵 Besides my love for technology, I'm also a Salsa Casino teacher, and I enjoy dancing Salsa and Bachata in my free time.
+
+- 🌐 Currently, I'm focusing on mastering web design. I'm also planning to delve into cybersecurity, and I'm excited to start learning it through freecodecamp, web/videos tutorials, and coursera courses.
+
+- 🌱 Exploring Technical Content Writing.
+
+- ⚡ In my free time, I code en freecodecamp.org and in exercism.org and read tech articles.
+
+- 📫 How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-AlexMGP7-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-gonz%C3%A1lez-67496a1a6/)
+
+---
+
+### 🛠️ Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" **alt="Rust" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Rust" **alt="Rust" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Jira" **alt="Jira" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" **alt="Jira" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+---
+
+### 🔥 My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexMGP7&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMGP7&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### ✍️ Blog Posts :
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 If you have any more questions or if there's anything else you'd like to know, feel free to ask!
 
@@ -36,17 +78,4 @@ If you have any more questions or if there's anything else you'd like to know, f
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1></div>
 
-<!--
-**AlexMGP7/AlexMGP7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
