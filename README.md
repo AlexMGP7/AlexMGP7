@@ -9,7 +9,7 @@
 
 - 🎓 Hi, my name is <b>Alexander Gonzalez</b>, I was born in <b>2003</b>. I'm currently pursuing a Bachelor's Degree in Computer Science at Universidad de Oriente, and I expect to graduate in mid-2025.
 
-- 👩‍💻 I'm proficient in various languages, tools, team work, Communication, and more 🖤
+- 👩‍💻 I'm <b>proficient</b> in various languages, tools, team work, Communication, and more 🖤
 
 - 🎵 Besides my love for technology, I'm also a Salsa Casino teacher, and I <b>enjoy</b> dancing Salsa and Bachata in my free time.
 
