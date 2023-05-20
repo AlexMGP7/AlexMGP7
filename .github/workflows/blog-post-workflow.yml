@@ -1,17 +1,16 @@
-name: Latest blog post workflow
-on:
-  schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
-  workflow_dispatch:
+name: Generate Blog List
 
+on:
+  push:
+  schedule:
+    - cron: "0 */1 * * *"
 jobs:
-  update-readme-with-blog:
-    name: Update this repos README with latest blog posts
+  blog:
     runs-on: ubuntu-latest
+    name: Fetch and Generate Blog Posts
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: actions/checkout@v3
+      - name: GitHub Readme Blog Post Action
+        uses: ErrorGamer2000/github-readme-blog-post-action@v1
         with:
-          max_post_count: "4"
-          feed_list: "https://dev.to/alexmgp7"
+          feed_urls: "https://dev.to/feed/alexmgp7"
