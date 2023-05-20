@@ -50,8 +50,8 @@
 
 ### ✍️ Blog Posts :
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- blog-post-list:start -->
+<!-- blog-post-list:end -->
 
 If you have any more questions or if there's anything else you'd like to know, feel free to ask!
 
