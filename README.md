@@ -1,15 +1,15 @@
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2QxNWExNzBjYzQzZDE4NjU5OTY0OWMzOTg1NjQ0NGU2OGM5Njk0OSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/AoiPYyV8TWL3T35HH1/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
 
-### :woman_technologist: About Me :
+### 👩‍💻 About Me :
 
-- 🎓 I'm Alexander Gonzalez. I'm currently pursuing a Bachelor's Degree in Computer Science at Universidad de Oriente, and I expect to graduate in mid-2025.
+- 🎓 Hi, my name is Alexander Gonzalez, I was born in 2003. I'm currently pursuing a Bachelor's Degree in Computer Science at Universidad de Oriente, and I expect to graduate in mid-2025.
 
-- 👩‍💻 I'm proficient in various programming languages, including HTML, CSS, JavaScript, Python, Java, C/C++, and Rust.
+- 👩‍💻 I'm proficient in various languages, tools, team work, Communication, and more 🖤
 
 - 🎵 Besides my love for technology, I'm also a Salsa Casino teacher, and I enjoy dancing Salsa and Bachata in my free time.
 
@@ -25,7 +25,7 @@
 
 ### 🛠️ Languages and Tools :
 
-<div>
+<div id="languages">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
