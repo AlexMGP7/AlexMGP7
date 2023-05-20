@@ -1,1 +1,28 @@
+name: Generate Blog List
 
+on:
+  schedule:
+    - cron: "0 */1 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+jobs:
+  blog:
+    runs-on: ubuntu-latest
+    name: Fetch and Generate Blog Posts
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Generate
+        uses: ErrorGamer2000/github-readme-blog-post-action@v1
+        with:
+          feed_urls: https://dev.to/feed/alexmgp7
+          output_dir: blog-posts
+          locale: en-US
+          time_zone: America/Denver
+      - name: Commit changed files
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Save Generated Blog Posts
+          skip_checkout: true
