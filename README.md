@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://media.giphy.com/media/Basrh159dGwKY/giphy.gif" width="600" height="300"/>
 </div>
@@ -61,8 +60,6 @@ The latest articles on DEV Community by Alexander \(@alexmgp7\).
 > Showing 2 of 2 posts.
 
 [![100 Days Coding Challenge - Day 1: FreeCodeCamp Web Design](https://raw.githubusercontent.com/AlexMGP7/AlexMGP7/main/blog-posts/DEV_Community__Alexander/100_Days_Coding_Challenge_-_Day_1__FreeCodeCamp_Web_Design.svg)](https://dev.to/alexmgp7/100-days-coding-challenge-day-1-freecodecamp-web-design-21ja)
-[![Test Post](https://raw.githubusercontent.com/AlexMGP7/AlexMGP7/main/blog-posts/DEV_Community__Alexander/Test_Post.svg)](https://dev.to/alexmgp7/test-post-266k)
-
 
 <!-- blog-post-list:end -->
 
