@@ -7,17 +7,17 @@
 
 ### 👩‍💻 About Me :
 
-- 🎓 Hi, my name is Alexander Gonzalez, I was born in 2003. I'm currently pursuing a Bachelor's Degree in Computer Science at Universidad de Oriente, and I expect to graduate in mid-2025.
+- 🎓 Hi, my name is <b>Alexander Gonzalez</b>, I was born in <b>2003</b>. I'm currently pursuing a Bachelor's Degree in Computer Science at Universidad de Oriente, and I expect to graduate in mid-2025.
 
 - 👩‍💻 I'm proficient in various languages, tools, team work, Communication, and more 🖤
 
-- 🎵 Besides my love for technology, I'm also a Salsa Casino teacher, and I enjoy dancing Salsa and Bachata in my free time.
+- 🎵 Besides my love for technology, I'm also a Salsa Casino teacher, and I <b>enjoy</b> dancing Salsa and Bachata in my free time.
 
-- 🌐 Currently, I'm focusing on mastering web design. I'm also planning to delve into cybersecurity, and I'm excited to start learning it through freecodecamp, web/videos tutorials, and coursera courses.
+- 🌐 Currently, I'm focusing on mastering <b>web design</b>. I'm also planning to delve into <b>cybersecurity</b>, and I'm excited to start learning it through my University, freecodecamp, web/videos tutorials, coursera courses and more :D
 
-- 🌱 Exploring Technical Content Writing.
+- 🌱 <b>Exploring</b> Technical Content Writing.
 
-- ⚡ In my free time, I code in <a href="https://www.freecodecamp.org" target="_blank">Freecodecamp</a> and in <a href="https://exercism.org" target="_blank">Exercism</a> and read tech articles.
+- ⚡ In my free time, I code in <a href="https://www.freecodecamp.org">Freecodecamp</a> and in <a href="https://exercism.org" target="_blank">Exercism</a> and read tech articles.
 
 - 📫 How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-AlexMGP7-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-gonz%C3%A1lez-67496a1a6/)
 
