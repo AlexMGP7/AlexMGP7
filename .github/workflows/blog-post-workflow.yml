@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "4"
-          feed_list: "https://alexmgp7.hashnode.dev/rss.xml"
+          feed_list: "https://dev.to/feed/alexmgp7"
