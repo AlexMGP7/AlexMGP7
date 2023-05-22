@@ -50,6 +50,11 @@
 ### ✍️ Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [100 Days Coding Challenge - Day 2: FreeCodeCamp Web Design](https://dev.to/alexmgp7/100-days-coding-challenge-day-1-freecodecamp-web-design-5id)
+- [100 Days Coding Challenge - Day 1: FreeCodeCamp Web Design](https://dev.to/alexmgp7/100-days-coding-challenge-day-1-freecodecamp-web-design-21ja)
+- [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
+- [Microsoft Student Partners &lpar;Ambassadors&rpar; – Geek is the new rockstar](https://www.gautamkrishnar.com/microsoft-student-partners/)
+- [An Intro to NumPy](https://www.gautamkrishnar.com/an-intro-to-numpy/)
 <!-- BLOG-POST-LIST:END -->
 
 If you have any more questions or if there's anything else you'd like to know, feel free to ask!
