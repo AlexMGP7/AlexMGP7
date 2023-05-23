@@ -4,7 +4,7 @@
 
 ---
 
-### <img src="https://camo.githubusercontent.com/662490d98da872217819984322ada7eabdb0cf406f49e1efbfd6cdc27e164b3e/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313632313032343339342f33393039322f6361742d726f6c6c2e6769663f31363231303234333934" data-canonical-src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" style="width: 24px; display: inline-block;" data-target="animated-image.originalImage"> About Me :
+### 👩‍💻 About Me :
 
 - 🎓 Hi, my name is <b>Alexander Gonzalez</b>, I was born in <b>2003</b>. I'm currently pursuing a Bachelor's Degree in Computer Science at Universidad de Oriente, and I expect to graduate in mid-2025.
 
