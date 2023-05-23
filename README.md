@@ -48,6 +48,7 @@
 ### ✍️ Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [100 Days Coding Challenge - Day 4: FreeCodeCamp Web Design](https://dev.to/alexmgp7/100-days-coding-challenge-day-4-freecodecamp-web-design-2oko)
 - [100 Days Coding Challenge - Day 3: FreeCodeCamp Web Design](https://dev.to/alexmgp7/100-days-coding-challenge-day-3-freecodecamp-web-design-92d)
 - [100 Days Coding Challenge - Day 2: FreeCodeCamp Web Design](https://dev.to/alexmgp7/100-days-coding-challenge-day-1-freecodecamp-web-design-5id)
 - [100 Days Coding Challenge - Day 1: FreeCodeCamp Web Design](https://dev.to/alexmgp7/100-days-coding-challenge-day-1-freecodecamp-web-design-21ja)
