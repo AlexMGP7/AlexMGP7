@@ -52,10 +52,10 @@
 ### ✍️ Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [100 Days Coding Challenge - Day 8: FreeCodeCamp JavaScript Algorithms and Data Structures](https://dev.to/alexmgp7/100-days-coding-challenge-day-8-freecodecamp-javascript-algorithms-and-data-structures-certification-2kig)
 - [100 Days Coding Challenge - Day 7: FreeCodeCamp Web Design Certification](https://dev.to/alexmgp7/100-days-coding-challenge-day-7-freecodecamp-web-design-certification-3kf4)
 - [100 Days Coding Challenge - Day 6: FreeCodeCamp Web Design](https://dev.to/alexmgp7/100-days-coding-challenge-day-6-freecodecamp-web-design-1gc7)
 - [100 Days Coding Challenge - Day 5: FreeCodeCamp Web Design](https://dev.to/alexmgp7/100-days-coding-challenge-day-5-freecodecamp-web-design-dpb)
-- [100 Days Coding Challenge - Day 4: FreeCodeCamp Web Design](https://dev.to/alexmgp7/100-days-coding-challenge-day-4-freecodecamp-web-design-2oko)
 <!-- BLOG-POST-LIST:END -->
 
 ---
