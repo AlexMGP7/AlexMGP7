@@ -52,10 +52,10 @@
 ### ✍️ Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [100 Days Coding Challenge - Day 14: FreeCodeCamp JavaScript Algorithms and Data Structures](https://dev.to/alexmgp7/100-days-coding-challenge-day-14-freecodecamp-javascript-algorithms-and-data-structures-2mnh)
 - [100 Days Coding Challenge - Day 13: FreeCodeCamp JavaScript Algorithms and Data Structures](https://dev.to/alexmgp7/100-days-coding-challenge-day-13-freecodecamp-javascript-algorithms-and-data-structures-409j)
 - [100 Days Coding Challenge - Day 12: FreeCodeCamp JavaScript Algorithms and Data Structures &amp; AI Chatbot Python](https://dev.to/alexmgp7/100-days-coding-challenge-day-12-freecodecamp-javascript-algorithms-and-data-structures-ai-chatbot-python-f78)
 - [100 Days Coding Challenge - Day 11: FreeCodeCamp JavaScript Algorithms and Data Structures &amp; AI Chatbot Python](https://dev.to/alexmgp7/100-days-coding-challenge-day-11-freecodecamp-javascript-algorithms-and-data-structures-ai-chatbot-python-31m4)
-- [100 Days Coding Challenge - Day 10: FreeCodeCamp JavaScript Algorithms and Data Structures](https://dev.to/alexmgp7/100-days-coding-challenge-day-10-freecodecamp-javascript-algorithms-and-data-structures-34d1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
