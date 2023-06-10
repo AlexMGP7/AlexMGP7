@@ -52,10 +52,10 @@
 ### ✍️ Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [100 Days Coding Challenge - Day 21: System information with PHP, JS, MySQL and CSS/HTML](https://dev.to/alexmgp7/100-days-coding-challenge-day-20-system-information-with-php-js-mysql-and-csshtml-4ici)
 - [100 Days Coding Challenge - Day 20: FreeCodeCamp JavaScript Algorithms and Data Structures](https://dev.to/alexmgp7/100-days-coding-challenge-day-20-freecodecamp-javascript-algorithms-and-data-structures-30fp)
 - [100 Days Coding Challenge - Day 19: System information with PHP, JS, MySQL and CSS/HTML](https://dev.to/alexmgp7/100-days-coding-challenge-day-20-system-information-with-php-js-mysql-and-csshtml-4320)
 - [100 Days Coding Challenge - Day 18: FreeCodeCamp JavaScript Algorithms and Data Structures](https://dev.to/alexmgp7/100-days-coding-challenge-day-18-freecodecamp-javascript-algorithms-and-data-structures-4661)
-- [100 Days Coding Challenge - Day 17: FreeCodeCamp JavaScript Algorithms and Data Structures](https://dev.to/alexmgp7/100-days-coding-challenge-day-17-freecodecamp-javascript-algorithms-and-data-structures-3952)
 <!-- BLOG-POST-LIST:END -->
 
 ---
