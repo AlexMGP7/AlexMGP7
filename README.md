@@ -52,10 +52,10 @@
 ### ✍️ Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [100 Days Coding Challenge - Day 28: FreeCodeCamp JavaScript Algorithms and Data Structures Certification](https://dev.to/alexmgp7/100-days-coding-challenge-day-28-freecodecamp-javascript-algorithms-and-data-structures-certification-3268)
 - [100 Days Coding Challenge - Day 26: FreeCodeCamp JavaScript Algorithms and Data Structures](https://dev.to/alexmgp7/100-days-coding-challenge-day-27-freecodecamp-javascript-algorithms-and-data-structures-276k)
 - [100 Days Coding Challenge - Day 25: FreeCodeCamp JavaScript Algorithms and Data Structures](https://dev.to/alexmgp7/100-days-coding-challenge-day-25-freecodecamp-javascript-algorithms-and-data-structures-3ko2)
 - [100 Days Coding Challenge - Day 24: FreeCodeCamp JavaScript Algorithms and Data Structures](https://dev.to/alexmgp7/100-days-coding-challenge-day-24-freecodecamp-javascript-algorithms-and-data-structures-php-455i)
-- [100 Days Coding Challenge - Day 23: FreeCodeCamp JavaScript Algorithms and Data Structures](https://dev.to/alexmgp7/100-days-coding-challenge-day-23-freecodecamp-javascript-algorithms-and-data-structures-1mb8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
