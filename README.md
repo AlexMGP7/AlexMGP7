@@ -16,7 +16,7 @@
 
 - 🎵 Besides my love for technology, I'm also a Salsa Casino teacher, and I <b>enjoy</b> dancing Salsa and Bachata in my free time.
 
-- 🌐 Currently, I'm focusing on mastering <b>web design</b>. I'm also planning to delve into <b>cybersecurity</b>, and I'm excited to start learning it through my University, freecodecamp, web/videos tutorials, coursera courses and more!
+- 🌐 Currently, I'm focusing on mastering <b>web design</b>, and I'm learning it through my University, freecodecamp, web/videos tutorials, coursera courses and more!
 
 - 🌱 <b>Exploring</b> Technical Content Writing.
 
