@@ -67,7 +67,7 @@
 
 ### 📞 Contact me:
 
-<div align="left" dir="auto" style="display: flex; gap: 10px;">
+<div>
   <a target="_blank" href="https://github.com/alexmgp7">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Github-Dark.svg" width="40" height="40">
   </a>
