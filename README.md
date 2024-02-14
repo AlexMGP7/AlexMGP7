@@ -65,23 +65,28 @@
 
 ---
 
-<div align="left" dir="auto">
-<a href="https://github.com/alexmgp7">
-<img src="https://camo.githubusercontent.com/b2d1ae072c968dbeaf2232f0e1071ae5a7b218b11caec1ae5c69c10ef370a3cc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333234323932652e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="github" data-canonical-src="https://img.shields.io/badge/github-%2324292e.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white" style="max-width: 100%;">
-</a>
-<a href="https://twitter.com/apastena" rel="nofollow">
-<img src="https://camo.githubusercontent.com/13039975938e719b60e38191d050a182c1615f0e64a87494792c510ee111917a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747769747465722d2532333030616365652e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" alt="twitter" data-canonical-src="https://img.shields.io/badge/twitter-%2300acee.svg?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width: 100%;">
-</a>
-<a href="https://stackoverflow.com/users/19379346/alexmgp7" rel="nofollow">
-<img src="https://camo.githubusercontent.com/f5bf1b99079bd2efa386e004e5851ff2da8d54c34726f12f31270e49b25a741d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f737461636b6f766572666c6f772d2532334632383033322e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d737461636b6f766572666c6f77266c6f676f436f6c6f723d7768697465" alt="stackoverflow" data-canonical-src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&amp;style=for-the-badge&amp;logo=stackoverflow&amp;logoColor=white" style="max-width: 100%;">
-</a>
-<a href="https://www.linkedin.com/in/alexander-gonz%C3%A1lez-67496a1a6/" rel="nofollow">
-<img src="https://camo.githubusercontent.com/5e3d78e5310a41c0667e07077cf93596229de398b154b83885dc068874ed5365/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333145373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="linkedin" data-canonical-src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
-</a>
-<a href="https://instagram.com/alexmgp7" rel="nofollow">
-<img src="https://camo.githubusercontent.com/eff3e7484b1754de8279027247ccec9c3deaeb76b4c4946c5d634a8579c2c1ce/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d2532333030303030302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" alt="instagram" data-canonical-src="https://img.shields.io/badge/instagram-%23000000.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;">
-</a>
+### 📞 Contact me:
+
+<div align="left" dir="auto" style="display: flex; gap: 10px;">
+  <a target="_blank" href="https://github.com/alexmgp7">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Github-Dark.svg" width="40" height="40">
+  </a>
+  <a target="_blank" href="https://twitter.com/apastena" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Twitter.svg" width="40" height="40">
+  </a>
+  <a target="_blank" href="https://stackoverflow.com/users/19379346/alexmgp7" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/StackOverflow-Dark.svg" width="40" height="40">
+  </a>
+  <a target="_blank" href="https://www.linkedin.com/in/alexander-gonz%C3%A1lez-67496a1a6/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/LinkedIn.svg" width="40" height="40">
+  </a>
+  <a target="_blank" href="https://instagram.com/alexmgp7" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Instagram.svg" width="40" height="40">
+  </a>
 </div>
+
+
+---
 
 If you have any more questions or if there's anything else you'd like to know, feel free to ask!
   
@@ -94,13 +99,13 @@ If you have any more questions or if there's anything else you'd like to know, f
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/alexander-gonz%C3%A1lez-67496a1a6/">
+  <a target="_blank" href="https://www.linkedin.com/in/alexander-gonz%C3%A1lez-67496a1a6/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCBalRazSHzduy92EZzVxbUA">
+  <a target="_blank" href="https://www.youtube.com/channel/UCBalRazSHzduy92EZzVxbUA">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/apastena">
+  <a target="_blank" href="https://twitter.com/apastena">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
