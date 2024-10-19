@@ -10,7 +10,7 @@
 
 - 👩‍💻 I'm <b>proficient</b> in various languages, tools, team work, Communication, and more 🖤
 
-- 🎵 Besides my love for technology, I'm also a Salsa Casino teacher, and I <b>enjoy</b> dancing Salsa and Bachata in my free time.
+- 🎵 Besides my love for technology,  I <b>enjoy</b> dancing Salsa and Bachata in my free time.
 
 - 🌐 Currently, I'm focusing on mastering <b>web design</b>, and I'm learning it through my University, freecodecamp, web/videos tutorials, coursera courses and more!
 
