@@ -44,14 +44,24 @@
 
 ---
 
+### 🐍 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexMGP7/AlexMGP7/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexMGP7/AlexMGP7/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AlexMGP7/AlexMGP7/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 ### 📊 GitHub Analytics
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=AlexMGP7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="180" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=AlexMGP7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="170" alt="stats graph" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMGP7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMGP7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170" alt="languages graph" />
   </a>
 </div>
 
