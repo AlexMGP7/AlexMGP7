@@ -43,7 +43,7 @@
 
 ### 🔥 My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexMGP7&theme=dark)](https://git.io/streak-stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexMGP7&theme=dark)](https://git.io/streak-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AlexMGP7)](https://git.io/streak-stats)
 
