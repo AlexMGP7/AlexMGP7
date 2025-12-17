@@ -67,14 +67,6 @@
 
 ---
 
-### ✍️ Latest Blog Posts
-
-- [100 Days Coding Challenge - Day 30: FreeCodeCamp Front End Development Libraries](https://dev.to/alexmgp7/100-days-coding-challenge-day-30-freecodecamp-front-end-development-libraries-47p6)
-- [100 Days Coding Challenge - Day 29: PHP &amp; MySql Login page](https://dev.to/alexmgp7/100-days-coding-challenge-day-29-php-mysql-login-page-3dg4)
-- [100 Days Coding Challenge - Day 28: FreeCodeCamp JavaScript Algorithms and Data Structures Certification](https://dev.to/alexmgp7/100-days-coding-challenge-day-28-freecodecamp-javascript-algorithms-and-data-structures-certification-3268)
-- [100 Days Coding Challenge - Day 26: FreeCodeCamp JavaScript Algorithms and Data Structures](https://dev.to/alexmgp7/100-days-coding-challenge-day-27-freecodecamp-javascript-algorithms-and-data-structures-276k)
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AlexMGP7&style=flat-square&color=blue" alt=""/>
   <br/>
