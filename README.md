@@ -25,7 +25,6 @@
 - 🎓 I'm currently pursuing a **Bachelor's Degree in Computer Science** at Universidad de Oriente (Expected graduation: Mid-2025).
 - 💻 My core focus is **Web Development** (MERN Stack & PHP). I love building scalable and user-friendly applications.
 - 🌐 I am constantly learning via University, FreeCodeCamp, Coursera, and documentation.
-- 🌱 Currently exploring **Technical Content Writing** and Advanced React Patterns.
 - ⚡ **Fun fact:** When I'm not coding, I enjoy dancing Salsa and Bachata! 🎵
 
 ---
